@@ -1,0 +1,12 @@
+Description,Mean,Unit,Parameter
+Mean weight,100,kg,wt_mu
+Mean age,60,years,age_mu
+Creatinine clearance,3,dl/h,crcl
+Mean baseline serum uric acid,8.34,mg/dL,sua_mu
+Mean baseline xanthine,8,mg,bxan
+Mean volume of uric acid distribution,154,dL,vua_mu
+Clearance of uric acid,4,dL/h,clua
+Baseline serum uric acid IIV,0.258,na,sua_eta
+Weight IIV,0.1,na,wt_eta
+Age IIV,0.252,na,age_eta
+Volume of uric acid distribution IIV,0.1,na,vua_eta

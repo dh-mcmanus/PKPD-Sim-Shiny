@@ -1,0 +1,10 @@
+Description,Mean,Unit,Parameter
+Drug clearance,49.3,dL/h,cl_mu
+Absorption rate constant,13.7,h-1,ka_mu
+Volume of central compartment,322,dL,v2_mu
+Volume of peripheral compartment,222,dL,v3_mu
+Intercompartment rate constant,55.7,dL,q_mu
+Creatinine covariate effect,0.142,na,cl_crcl
+Weight covariate effect,0.155,na,cl_wt
+Clearance IIV,0.0329,na,cl_eta
+Absorption rate IIV,1.4104,na,ka_eta

@@ -1,0 +1,10 @@
+name: pkpdsim
+title:
+username: dhmcmanus
+account: dhmcmanus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4374590
+bundleId: 9135220
+url: https://dhmcmanus.shinyapps.io/pkpdsim/
+version: 1

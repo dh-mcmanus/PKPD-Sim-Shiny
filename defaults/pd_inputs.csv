@@ -1,0 +1,7 @@
+Description,Mean,Unit,Parameter
+Xanthine excretion stimulation,3,na,emax1
+Concentration of half stimulation,0.001,mg/dL,ec50
+Concentration of half inhibition 1,0.00113,mg/dL,ic501
+Concentration of half inhibition 2,0.132,mg/dL,ic502
+IC50 1 IIV,0.2,na,ic501_eta
+IC50 2 IIV,0.2,na,ic502_eta
